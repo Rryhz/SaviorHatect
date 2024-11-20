@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -58,7 +59,7 @@
                 <a class="btn btn-singin" href="/login">Sign In</a>
               </li>
               <li class="nav-item">
-                <a class="btn" href="#">Sign Up</a>
+                <a class="btn" href="/signup">Sign Up</a>
               </li>
             </ul>
           </div>
