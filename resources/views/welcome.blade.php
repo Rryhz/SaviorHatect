@@ -59,7 +59,7 @@
                 <a class="btn btn-singin" href="/login">Sign In</a>
               </li>
               <li class="nav-item">
-                <a class="btn" href="/signup">Sign Up</a>
+                <a class="btn" href="/dashboard">Sign Up</a>
               </li>
             </ul>
           </div>
@@ -241,9 +241,10 @@
               <div class="item">
                 <div class="testimonial-item">
                   <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
+                    <p class="description">"Sejak menggunakan Hatect, hasil panen saya meningkat drastis! <br> Dulu saya sering terlambat mendeteksi serangan hama, tapi <br> sekarang notifikasi dari aplikasi langsung memberi tahu jenis hama dan <br> tindakan yang perlu diambil. Sangat membantu mengurangi kerugian."
+                    </p>
                     <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                      <h5>Budi ; <span> Petani Padi dari Jawa Timur</span></h5>
                     </div>
                   </div>
                   <div class="client-thumb">
@@ -254,9 +255,9 @@
               <div class="item">
                 <div class="testimonial-item">
                   <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
+                    <p class="description">"Hatect adalah alat yang sangat efisien. Sistemnya mudah digunakan <br> dan data yang ditampilkan sangat akurat. Kamera dan sensor <br> yang terintegrasi membuat kami dapat memantau seluruh area <br> perkebunan kelapa sawit tanpa harus mengecek satu per satu secara manual."</p>
                     <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                      <h5>Siti ; <span> Manajer Perkebunan di Sumatera</span></h5>
                     </div>
                   </div>
                   <div class="client-thumb">
@@ -267,9 +268,9 @@
               <div class="item">
                 <div class="testimonial-item">
                   <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
+                    <p class="description">"Hatect menjadi solusi luar biasa dalam penelitian kami. Identifikasi <br> jenis hama berbasis AI sangat cepat dan memberikan data<br> yang sangat detail. Dengan teknologi ini, kami bisa memberikan rekomendasi yang lebih baik kepada petani."</p>
                     <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
+                      <h5>Dr. Arif ; <span> Peneliti di Balai Penelitian Pertanian/span></h5>
                     </div>
                   </div>
                   <div class="client-thumb">
@@ -277,46 +278,6 @@
                   </div>
                 </div>
               </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
-                    <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                    </div>
-                  </div>
-                  <div class="client-thumb">
-                    <img src="img/testimonial/01.png" alt="">
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
-                    <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                    </div>
-                  </div>
-                  <div class="client-thumb">
-                    <img src="img/testimonial/01.png" alt="">
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimonial-item">
-                  <div class="content-inner">
-                    <p class="description">Appropriately implement one-to-one catalysts for change <br> vis-a-vis wireless catalysts for change. Enthusiastically architect <br> adaptive e-tailers after sustainable total linkage. Appropriately <br> implement one-to-one catalysts for change.</p>
-                    <div class="author-info">
-                      <h5>Tahmina Anny ; <span> UIdeck Customer</span></h5>
-                    </div>
-                  </div>
-                  <div class="client-thumb">
-                    <img src="img/testimonial/01.png" alt="">
-                  </div>
-                </div>
-              </div>
-
             </div>
           </div>
         </div>
@@ -351,7 +312,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="img/team/01.jpg" class="img-fluid" alt="">
+                <img src="img/team/raga.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
@@ -375,7 +336,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="img/team/" class="img-fluid" alt="">
+                <img src="img/team/raihan.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
@@ -399,7 +360,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="img/team/03.jpg" class="img-fluid" alt="">
+                <img src="img/team/safina.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
@@ -423,7 +384,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="img/team/04.jpg" class="img-fluid" alt="">
+                <img src="img/team/praditya.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
@@ -447,7 +408,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="img/team/04.jpg" class="img-fluid" alt="">
+                <img src="img/team/putri.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
@@ -471,7 +432,7 @@
           <div class="col-lg-4 col-md-6 col-xs-12">
             <div class="single-team">
               <div class="team-thumb">
-                <img src="#" class="img-fluid" alt="">
+                <img src="img/team/verlyn.png" class="img-fluid" alt="">
               </div>
 
               <div class="team-details">
